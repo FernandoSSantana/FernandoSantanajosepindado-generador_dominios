@@ -21,7 +21,7 @@ window.onload = function() {
           );
   }
 
-  document.body.innerHTML = "<ol></ol>";
+  //document.getElementById("list").innerHTML = "";
 
   let ol = document.querySelector("ol");
 
